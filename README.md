@@ -18,18 +18,6 @@
 *World Models · Model-Based RL*  
 From-scratch RSSM (Recurrent State Space Model) implementation. The model learns compact latent representations of environment dynamics and generates imagined future trajectories without interacting with the real world — core to Dreamer-style model-based RL.
 
-**[DealBoard AI Companion](https://github.com/ryadg-kura/Gemini-3-Hackathon-Paris)** &nbsp;`Next.js` `TypeScript` `Gemini 3.1 Pro`  
-*Gemini Hackathon Paris*  
-Chat/agent-based AI assistant with direct access to Google Workspace. Manages tasks, emails, and calendar through a secure server-side session architecture with OAuth 2.0.
-
-**[EyeSegmentation](https://github.com/ryadg-kura/EyeSegmentation)** &nbsp;`PyTorch` `YOLO11` `Hugging Face`  
-*Medical Computer Vision*  
-End-to-end optic disc segmentation pipeline. Fine-tuned YOLO11 on a custom-built dataset, deployed weights on Hugging Face, integrated into [EyeFlow](https://github.com/DigitalHolography/EyeFlow) — used in clinical settings daily.
-
-**[GIMP Mask Plugin](https://github.com/ryadg-kura/GIMP_mask_plugin)** &nbsp;`Python` `GIMP API`  
-*Annotation Tooling*  
-Custom GIMP 3.0 plugin that drastically accelerates manual image segmentation workflows. Built out of necessity — a CV model is only as good as its training data, and labeling at scale is painful without the right tooling.
-
 ---
 
 ## 🔬 Research & Experiments
@@ -42,13 +30,6 @@ Real-time emotion analysis from live video. Face detection pipeline feeds into a
 
 **[TextStyleTransfer](https://github.com/ryadg-kura/textstyletransfer)** &nbsp;`PyTorch` `HuggingFace` `Gradio`  
 Fine-tuned GPT-2 for formal ↔ informal style transfer. Includes full training pipeline, BLEU/BERTScore evaluation, and an interactive Gradio demo.
-
----
-
-## 🎮 Fun Stuff
-
-**[Tanks](https://github.com/ryadg-kura/tanks)** &nbsp;`TypeScript` `HTML5 Canvas`  
-Multiplayer web tank game built entirely from scratch. Custom game engine, physics, and rendering — no heavy frameworks. A deep dive into how games actually work under the hood.
 
 ---
 
