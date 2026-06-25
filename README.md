@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-**AI/ML Engineer & Computer Vision Specialist.** Master's student in AI at [EPITA](https://www.epita.fr/) (SCIA Major). I build end-to-end AI systems: not just models, but the pipelines, tooling, and infrastructure around them. From medical image segmentation to world models and LLM engineering, I care about what's happening inside the architecture, not just the benchmark score.
+**AI/ML Engineer & SWE.** Master's student in AI at [EPITA](https://www.epita.fr/) (SCIA Major). I build end-to-end AI systems: not just models, but the pipelines, tooling, and infrastructure around them. From medical image segmentation to world models and LLM engineering, I care about what's happening inside the architecture, not just the benchmark score.
 
 ---
 
