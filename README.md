@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060614,40:0d1b4b,100:1a0a3a&height=200&section=header&text=Ryad+G.&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML+Engineer+%7C+Computer+Vision+%7C+NLP&descAlignY=60&descColor=7c8cf8&descSize=19" />
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+work.;World+Models+%7C+Computer+Vision+%7C+NLP;EPITA+SCIA+-+Paris%2C+France" alt="Typing SVG" />
 </div>
-
 <br/>
 
 **AI/ML Engineer & Computer Vision Specialist.** Master's student in AI at [EPITA](https://www.epita.fr/) (SCIA Major). I build end-to-end AI systems: not just models, but the pipelines, tooling, and infrastructure around them. From medical image segmentation to world models and LLM engineering, I care about what's happening inside the architecture, not just the benchmark score.
@@ -21,6 +19,10 @@ From-scratch RSSM (Recurrent State Space Model) implementation. The model learns
 ---
 
 ## 🏆 Hackathons
+
+**[CapAvenir](https://github.com/RyadGazenay/hackathon_IA_agentique_GDG_Alumni_EPITA)** · [Demo →](https://hackaton-2026-epita.osc-fr1.scalingo.io/) &nbsp;`Node.js` `React` `DeepSeek` `OpenRouter` `Redis` `SSE` `Scalingo`  
+*Hackathon IA Agentique — GDG EPITA × AI Tinkerers Paris × Exalt — 3h, juin 2026*  
+Agent d'orientation Parcoursup en pipeline multi-agent (Explorer → Strategist → Writer) avec boucle de replanification autonome : si la stratégie de vœux est déséquilibrée, le système se reconfigure sans intervention humaine. Orchestration maison sans framework agentique (~200 lignes de JS), streaming SSE token-par-token par agent, déployé sur Scalingo.
 
 **[PaperProf](https://huggingface.co/spaces/build-small-hackathon/PaperProf)** &nbsp;`MiniCPM4.1-8B` `FLUX.2-klein` `Gradio` `QLoRA`  
 *Build Small Hackathon x Gradio x HuggingFace*  
@@ -45,16 +47,13 @@ Fine-tuned GPT-2 for formal to informal style transfer. Includes full training p
 
 <div align="center">
 
-**AI · ML · Vision**
-
+**AI · ML · Vision**  
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 
-**Web · Backend**
-
+**Web · Backend**  
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs&theme=dark" />
 
-**Systems · Tools**
-
+**Systems · Tools**  
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,docker,git,linux&theme=dark" />
 
 </div>
