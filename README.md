@@ -14,11 +14,11 @@
 
 **[Stealth] AI-powered Anomaly Detection on Time Series**
 `Python` `PyTorch` `Deep Generative Models`
-*Stealth mode — repo private*
+*Stealth mode, repo private*
 
 Exploring deep generative models applied to temporal data
 for anomaly detection in cybersecurity contexts.
-Research-first approach — targeting a technical writeup.
+Research-first approach, targeting a technical writeup.
 
 ---
 
