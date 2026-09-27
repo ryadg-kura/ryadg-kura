@@ -8,7 +8,7 @@
 
 **AI & Data | M2 @ [EPITA](https://www.epita.fr/), SCIA major**
 
-AI Engineer, Data Engineer & Product Builder.
+AI Engineer, Data Engineer & SWE.
 
 🔍 Looking for a 6-month end-of-studies internship starting February 2027
 🌍 Open to relocate worldwide: Paris, London, Zurich, NYC, SF, Dubai, Montreal, Sydney
