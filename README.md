@@ -30,9 +30,9 @@ AI Engineer, Data Engineer & SWE.
 ---
 
 ## 🚀 Projects
-- **Echo** 🚧 · Local multimodal AI assistant: voice, vision, gesture control and tool use, fully offline
-- **[MoodLens](https://github.com/ryadg-kura/sentimentcam)** · Real-time facial emotion analysis from live video (OpenCV, MediaPipe, HuggingFace)
-- **ClockData** · Real-time streaming pipeline for connected-watch data (Kafka, Spark Structured Streaming)
+- **[Echo](https://github.com/ryadg-kura/echo)** · Local multimodal AI assistant: voice, vision, gesture control and tool use, fully offline
+- **[MoodLens](https://github.com/ryadg-kura/moodlens)** · Real-time facial emotion analysis from live video (OpenCV, MediaPipe, HuggingFace)
+- **[ClockData](https://github.com/ryadg-kura/clockdata)** · Real-time streaming pipeline for connected-watch data (Kafka, Spark Structured Streaming), with a cloud version on AWS
 
 ---
 
